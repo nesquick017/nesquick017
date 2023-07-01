@@ -28,7 +28,8 @@ I am an open-minded individual focused on achieving results and meeting set goal
   Thank you for reaching out to me. Contact information below:
 </p>
 
-madorskiy.017@yandex.ru 📧 || +59893410223📞 || [Instagram](https://www.instagram.com/madorskii_nikita/)📸 ||[Telegram](https://t.me/nessito)📟
-
+<p align="center">
+  madorskiy.017@yandex.ru 📧 || +59893410223📞 || [Instagram](https://www.instagram.com/madorskii_nikita/)📸 ||[Telegram](https://t.me/nessito)📟
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
