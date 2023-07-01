@@ -10,13 +10,12 @@ My name is [Nikita](https://ru.hexlet.io/u/nesquick0_17), and I am an ex-hospita
 - HTML and CSS: Proficient in the fundamentals of HTML and CSS.
 - HTTP: Understanding of the HTTP protocol and its workings.
 - Asynchronous Programming: Confident in working with asynchronous operations and understanding the principles of asynchronous programming.
-- React.js: Currently studying and exploring React.js, learning to create components and develop projects using this library.
+- Automated Testing: Acquired skills in automated testing, demonstrated in two of my projects.
 
 **Currently Learning:**
 
-- Automated Testing: Acquired skills in automated testing, demonstrated in two of my projects.
 - TypeScript: Actively studying TypeScript and applying it in my projects to achieve more type-safe code.
-
+- React.js: Currently studying and exploring React.js, learning to create components and develop projects using this library.
 
 <!--
 **nesquick017/nesquick017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
