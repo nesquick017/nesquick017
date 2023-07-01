@@ -31,6 +31,6 @@ I am an open-minded individual focused on achieving results and meeting set goal
 📧: madorskiy.017@yandex.ru\
 📞: +59893410223\
 📸: [instagramm:](https://www.instagram.com/madorskii_nikita/)\
-📟: [telegramm:](https://t.me/nessito)\
+📟: [telegramm:](https://t.me/nessito)
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
