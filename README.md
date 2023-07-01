@@ -29,6 +29,6 @@ I am an open-minded individual focused on achieving results and meeting set goal
 </p>
 
   📧 - madorskiy.017@yandex.ru\
-  📟 - [Telegram](https://t.me/nessito)
+  📱 - [Telegram](https://t.me/nessito)
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
