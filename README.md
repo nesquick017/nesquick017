@@ -24,4 +24,6 @@ My name is [Nikita](https://ru.hexlet.io/u/nesquick0_17), and I am an ex-hospita
 
 I am an open-minded individual focused on achieving results and meeting set goals. I have good self-organization skills and a strong desire to explore new areas in order to develop myself not only technically but also culturally as a person. The field of interface development and programming is new to me, but I am confident that I can excel in it and showcase my abilities based on my experience working in international teams with a strong focus on delivering exceptional results. I strive to learn the profession in order to make the most complex things simple.
 
-[![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
+<div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
+</div>
