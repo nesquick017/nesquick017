@@ -1,5 +1,5 @@
-### Hi there and welcome to my shelter.
-# About me: 
+# Hi there and welcome to my shelter.
+### About me: 
 Its [Nikita](https://ru.hexlet.io/u/nesquick0_17) ex-hospitality expert and restaurant manager, currently JS-developer. Passionate and highly motivated student on [Hexlet](https://ru.hexlet.io/pages/about). Looking forward to finish my educatioan and graduated in November 2023.
 
 <!--
