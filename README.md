@@ -16,5 +16,6 @@ My name is [Nikita](https://ru.hexlet.io/u/nesquick0_17), and I am an ex-hospita
 
 - TypeScript: Actively studying TypeScript and applying it in my projects to achieve more type-safe code.
 - React.js: Currently studying and exploring React.js, learning to create components and develop projects using this library.
+- Interested in firebase.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,git,jest,ts,vscode,firebase)](https://skillicons.dev)
