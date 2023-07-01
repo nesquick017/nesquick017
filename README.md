@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im ex-hospitality expert and restaurant manager, currently JS-developer.
+Its [Nikita](https://ru.hexlet.io/u/nesquick0_17) ex-hospitality expert and restaurant manager, currently JS-developer. Passionate and highly motivated student on [Hexlet](https://ru.hexlet.io/pages/about). Looking forward to finish my educatioan and graduated in November 2023, currently work for 2 studyng projects(Rss-agregator and My personal Slack-like messanger) and 1 personal project(demo-online-shop).
 <!--
 **nesquick017/nesquick017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
