@@ -26,6 +26,6 @@ I am an open-minded individual focused on achieving results and meeting set goal
 
 <article>
   <p>
-    [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
+    (https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
   </p>
 </article>
