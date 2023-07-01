@@ -1,5 +1,5 @@
 <h1 align="center">
-  # Hi there and welcome to my shelter.
+  Hi there and welcome to my shelter.
 </h1>
 
 **About me:**
