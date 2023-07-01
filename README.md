@@ -2,7 +2,7 @@
   Hi there and welcome to my shelter.
 </h1>
 
-__подчеркнутый__
+**About me:**
 
 My name is [Nikita](https://ru.hexlet.io/u/nesquick0_17), and I am an ex-hospitality expert and restaurant manager. Currently, I am a Frontend JS Developer. I am a passionate and highly motivated student at [Hexlet](https://ru.hexlet.io/pages/about). I am looking forward to completing my education and graduating in November 2023. After a successful 5-year career in Hospitality, I decided to switch my career to a different field. After extensive research for half a year, I found IT and Frontend development to be the most suitable environment for me right now. I am a hard worker and always strive to see the results of my work and be proud of it. Therefore, Frontend development presents a new and exciting challenge for me. 
 
