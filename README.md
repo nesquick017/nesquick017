@@ -33,7 +33,7 @@ I am an open-minded individual focused on achieving results and meeting set goal
   📄 - [My CV(Rus)](https://cv.hexlet.io/ru/resumes/2838)
 
 <p align='center'>
-  Confident in
+  Confident in:
 </p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,git,jest,js,babel,bash,vscode,css)](https://skillicons.dev)
