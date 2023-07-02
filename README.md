@@ -30,6 +30,6 @@ I am an open-minded individual focused on achieving results and meeting set goal
 
   🐶 - madorskiy.017@yandex.ru\
   📱 - [Telegram](https://t.me/nessito)\
-  📄 - [My CV](https://cv.hexlet.io/ru/resumes/2838)
+  📄 - [My CV(Ru)](https://cv.hexlet.io/ru/resumes/2838)
 
 [![My Skills](https://skillicons.dev/icons?i=js,git,jest,html,css,ts,babel,firebase)](https://skillicons.dev)
