@@ -31,7 +31,7 @@ I am an open-minded individual focused on achieving results and meeting set goal
   📱 - [Telegram](https://t.me/nessito)\
   📑 - [My CV(Rus)](https://cv.hexlet.io/ru/resumes/2838)\
   👨‍💼 - [LinkedIn(Eng)](https://www.linkedin.com/in/nikita-madorskiy-5500a6282/)\
-  🐶 - madorskiy.017@yandex.ru
+  📬 - madorskiy.017@yandex.ru
 
 <p align='center'>
   Confident in:
