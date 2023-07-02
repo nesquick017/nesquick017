@@ -32,4 +32,4 @@ I am an open-minded individual focused on achieving results and meeting set goal
   📱 - [Telegram](https://t.me/nessito)\
   📄 - [My CV(Ru)](https://cv.hexlet.io/ru/resumes/2838)
 
-[![My Skills](https://skillicons.dev/icons?i=html,git,jest,js,firebase,babel,vscode,react,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,jquery,git,jest,js,firebase,nodejs,babel,redux,bash,vscode,regex,react,css,ts)](https://skillicons.dev)
