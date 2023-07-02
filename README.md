@@ -36,10 +36,10 @@ I am an open-minded individual focused on achieving results and meeting set goal
   Confident in
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,jquery,git,jest,js,firebase,nodejs,babel,redux,bash,vscode,regex,react,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,git,jest,js,babel,bash,vscode,css)](https://skillicons.dev)
 
 <p align='center'>
   Coming soon...
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=html,jquery,git,jest,js,firebase,nodejs,babel,redux,bash,vscode,regex,react,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jquery,firebase,nodejs,redux,regex,react,ts)](https://skillicons.dev)
