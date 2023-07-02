@@ -14,13 +14,13 @@ My name is [Nikita](https://ru.hexlet.io/u/nesquick0_17), and I am an ex-hospita
 - Asynchronous Programming: Confident in working with asynchronous operations and understanding the principles of asynchronous programming.
 - Automated Testing: Acquired skills in automated testing, demonstrated in two of my projects.
 
-✏️**Currently Learning:**
+👨‍🎓**Currently Learning:**
 
 - TypeScript: Actively studying TypeScript and applying it in my projects to achieve more type-safe code.
 - React.js: Currently studying and exploring React.js, learning to create components and develop projects using this library.
 - Interested in firebase.
 
-**My Motivation:**
+🚀**My Motivation:**
 
 I am an open-minded individual focused on achieving results and meeting set goals. I have good self-organization skills and a strong desire to explore new areas in order to develop myself not only technically but also culturally as a person. The field of interface development and programming is new to me, but I am confident that I can excel in it and showcase my abilities based on my experience working in international teams with a strong focus on delivering exceptional results. I strive to learn the profession in order to make the most complex things simple.
 
